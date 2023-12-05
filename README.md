@@ -27,7 +27,6 @@ Project Structure:
 Getting Started
 Clone the repository:
 
-bash
 Copy code
 git clone https://github.com/Abdullah21-kamal/Data-Visualization---AmChart5-charts-/tree/main
 
